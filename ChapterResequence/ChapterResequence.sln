@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChapterResequence", "ChapterResequence.csproj", "{93A9DFFD-FE18-494C-BB24-9E7045FBE622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChapterResequenceTest", "..\ChapterResequenceTest\ChapterResequenceTest.csproj", "{F09DDB18-5E43-4369-930E-222664302CB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A9DFFD-FE18-494C-BB24-9E7045FBE622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A9DFFD-FE18-494C-BB24-9E7045FBE622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A9DFFD-FE18-494C-BB24-9E7045FBE622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A9DFFD-FE18-494C-BB24-9E7045FBE622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09DDB18-5E43-4369-930E-222664302CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09DDB18-5E43-4369-930E-222664302CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09DDB18-5E43-4369-930E-222664302CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09DDB18-5E43-4369-930E-222664302CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BD67A87-566D-412B-A46B-270E0ED9BBED}
+	EndGlobalSection
+EndGlobal

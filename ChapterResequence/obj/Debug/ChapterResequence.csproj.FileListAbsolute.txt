@@ -1,0 +1,16 @@
+C:\Users\saffron\Desktop\ChapterResequence\bin\Debug\ChapterResequence.exe.config
+C:\Users\saffron\Desktop\ChapterResequence\bin\Debug\ChapterResequence.exe
+C:\Users\saffron\Desktop\ChapterResequence\bin\Debug\ChapterResequence.pdb
+C:\Users\saffron\Desktop\ChapterResequence\bin\Debug\Mono.Options.dll
+C:\Users\saffron\Desktop\ChapterResequence\obj\Debug\ChapterResequence.csprojAssemblyReference.cache
+C:\Users\saffron\Desktop\ChapterResequence\obj\Debug\ChapterResequence.csproj.CopyComplete
+C:\Users\saffron\Desktop\ChapterResequence\obj\Debug\ChapterResequence.exe
+C:\Users\saffron\Desktop\ChapterResequence\obj\Debug\ChapterResequence.pdb
+C:\Users\saffron\Desktop\TextBookTools\ChapterResequence\bin\Debug\ChapterResequence.exe.config
+C:\Users\saffron\Desktop\TextBookTools\ChapterResequence\bin\Debug\ChapterResequence.exe
+C:\Users\saffron\Desktop\TextBookTools\ChapterResequence\bin\Debug\ChapterResequence.pdb
+C:\Users\saffron\Desktop\TextBookTools\ChapterResequence\bin\Debug\Mono.Options.dll
+C:\Users\saffron\Desktop\TextBookTools\ChapterResequence\obj\Debug\ChapterResequence.csprojAssemblyReference.cache
+C:\Users\saffron\Desktop\TextBookTools\ChapterResequence\obj\Debug\ChapterResequence.csproj.CopyComplete
+C:\Users\saffron\Desktop\TextBookTools\ChapterResequence\obj\Debug\ChapterResequence.exe
+C:\Users\saffron\Desktop\TextBookTools\ChapterResequence\obj\Debug\ChapterResequence.pdb
